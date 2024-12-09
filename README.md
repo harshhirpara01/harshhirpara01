@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshhirpara01
 - 👀 I’m interested in android app development \ ai/ml
-- 🌱 I’m currently learning advance android 
+- 🌱 I’m currently learning pythond framwork \ django\flask.
 
 <!---
 harshhirpara01/harshhirpara01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
